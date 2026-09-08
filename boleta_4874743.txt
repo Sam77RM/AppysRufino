@@ -1,0 +1,16 @@
+====================================
+             RufinoAppSys           
+====================================
+Fecha: 21-07-2025 08:11:38
+Vendedor: Sam
+Cargo: Administrador
+------------------------------------
+Producto: C130
+Precio Unitario: S/ 45.00
+Cantidad: 3
+Descuento: 1500%
+------------------------------------
+TOTAL A PAGAR: S/ -1890.00
+====================================
+Gracias por su compra. Vuelva pronto.
+====================================

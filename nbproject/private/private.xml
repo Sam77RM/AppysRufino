@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Servicios/RecuperarCuenta.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Vista/Ingreso/Login.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Vista/Aplicacion/Almacen.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Modelo/Cliente.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Vista/Aplicacion/ProcesoVenta.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Sql_Tablas_Op/OperandoTablasUsuarios.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Servicios/InterfazUsuarioService.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Vista/Aplicacion/Ventas.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Modelo/Permisos.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/ModeloDAO/PermisosDAO.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Modelo/Usuarios.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Vista/Ingreso/RecuperarCuenta_Contrasena.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Interfaces/Cable_Interface.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Modelo/GestCables.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Modelo/Cable.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Vista/Aplicacion/Clientes.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Vista/Ingreso/CrearCuenta.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/ModeloDAO/CablesDAO.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Interfaces/Usuario_Interface.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/ModeloDAO/LoginClase.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Vista/Aplicacion/Reportes.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Conectividad/Conexion.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Vista/Aplicacion/Administracion.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Modelo/GestRepuestos.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Servicios/GeneradorBoleta.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Vista/Ingreso/RecuperarCuenta.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Modelo/GestClientes.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Vista/Ingreso/Ventana_Principal.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/ModeloDAO/PreguntasDAO.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Modelo/Repuesto.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/ModeloDAO/UsuariosDAO.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Interfaces/CRUD.java</file>
+            <file>file:/C:/Users/GoodF/Desktop/RufinoAppSysok/src/Servicios/Login.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,16 @@
+====================================
+             RufinoAppSys           
+====================================
+Fecha: 21-07-2025 08:00:15
+Vendedor: Sam
+Cargo: Administrador
+------------------------------------
+Producto: C126
+Precio Unitario: S/ 180.00
+Cantidad: 1
+Descuento: 500%
+------------------------------------
+TOTAL A PAGAR: S/ -720.00
+====================================
+Gracias por su compra. Vuelva pronto.
+====================================
