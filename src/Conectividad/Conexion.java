@@ -7,10 +7,22 @@ import java.util.logging.Logger;
 public class Conexion {    
     private Connection conn;
     
-    public Connection getConexion(){        
+    public Connection getConexion(){  
+
+         /*
+                Base caida, necesitamos un servicio permanente
+                Esctructura del link:
+                mysql://sql10.freesqldatabase.com:3306/sql10789406"
+                
+          */
+        String link = "mysql://sql10.freesqldatabase.com:3306/sql10789406"
+        String user = "usr";
+        String password = "pwsd";
+
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            conn = DriverManager.getConnection("jdbc:mysql://sql10.freesqldatabase.com:3306/sql10789406","sql10789406","CMVCCUHYEv");
+
+            conn = DriverManager.getConnection(link,user,password);
             System.out.println("Conectado Exitosamente");
             
         } catch (ClassNotFoundException | SQLException ex) {
@@ -33,35 +45,5 @@ public class Conexion {
         } catch (SQLException ex) {
             Logger.getLogger(Conexion.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
-        /*
-        
-        
-           Conexion con = new Conexion();
-    Connection conn;
-    PreparedStatement ps;
-    Statement st;
-    ResultSet rs;
-    Cliente c;
-    ArrayList<Cliente> vc= new ArrayList<>();
-    
-
-    @Override
-    public void insertar(Cliente c) {
-        
-        try {
-            String sql = "insert into cliente (codcli, nomcli, ruccli) values(?,?,?)";
-            conn = con.getConexion();
-            ps = conn.prepareStatement(sql);
-            ps.setString(1, c.getCodigo());
-            ps.setString(2, c.getNombre());
-            ps.setString(3, c.getRuc());
-            ps.executeUpdate();
-            conn.close();
-            
-        } catch (SQLException ex) {
-            Logger.getLogger(ClienteDAO.class.getName()).log(Level.SEVERE, null, ex);
-        }
-        */
     }
 }
